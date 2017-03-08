@@ -906,7 +906,7 @@
   :maindb: ExtManagementSystem
   :container_deployment_wizard: false
 :prototype:
-  :monitoring: false
+  :monitoring: true
 :recommendations:
   :cpu_minimum: 1
   :mem_minimum: 32.megabytes
